@@ -1,0 +1,17 @@
+{
+  "name": "npm-package-download-stats",
+  "version": "1.0.0",
+  "description": "NPM package download stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "download",
+    "count"
+  ],
+  "author": "Mahendran Kannan",
+  "license": "ISC"
+}
