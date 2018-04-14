@@ -9,3 +9,8 @@ https://api.npmjs.org/downloads/range/2016-01-03:2016-02-03/jquery
 ### Links
 
 [https://github.com/npm/registry/blob/master/docs/download-counts.md](https://github.com/npm/registry/blob/master/docs/download-counts.md)
+
+
+### Screenshot
+
+![Screenshot]('https://raw.githubusercontent.com/gkmahendran09/npm-package-download-stats/master/screenshot.png')
