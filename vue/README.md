@@ -1,6 +1,6 @@
-# npm-download-count
+# NPM Package Download count
 
-> NPM package download count for last one year
+> NPM package download stats
 
 ## Build Setup
 
