@@ -12,5 +12,4 @@ https://api.npmjs.org/downloads/range/2016-01-03:2016-02-03/jquery
 
 
 ### Screenshot
-
-![Screenshot]('https://raw.githubusercontent.com/gkmahendran09/npm-package-download-stats/master/screenshot.png')
+<img style='width: 600px' src="screenshot.png">
